@@ -4,7 +4,7 @@ Introdução
 ** Sobre este tutorial **
 
 Bem-vindo ao Aprender Haskell será um grande bem para você! 
-Se você já esta lendo isto, existem boas chances de você querer aprender Haskell. Muito bem, você já esta no lugar certo, mas antes vamos conversar um pouco sobre este tutorial.
+Se você está lendo isto, é provável que queira aprender Haskell. Muito bem, você veio ao lugar certo, mas antes vamos conversar um pouco sobre este tutorial.
 
 Eu decidi escrever porque estava querendo solidificar meus conhecimentos em Haskell e porque pensei que poderia ajudar as pessoas novas em Haskell a aprende-lo sob a minha perspectiva. Este é só mais um tutorial sobre Haskell pairando pela internet. Quando eu comecei em Haskell eu não aprendi a partir de apenas uma fonte. O meu caminho para o aprendizado passou pela leitura de diversos e diferentes tutoriais e artigos porque cada um explicava algo seguindo por um caminho diferente do outro. Ao passar por diferentes fontes, eu consegui juntar as peças e tudo acabou caindo no mesmo lugar. Portanto, esta é apenas mais uma fonte adicional a se utilizar para aprender Haskell para que você tenha uma maior chance de encontrar uma que você realmente goste. 
 
